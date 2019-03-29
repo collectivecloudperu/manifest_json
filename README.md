@@ -1,1 +1,2 @@
-# manifest_json
+# Que es y Como Configurar "Manifest JSON" en una Página Web
+Existen muchas tecnologías y herramientas en el mundo del Desarrollo Web que nos ayudan a mejorar ciertas características de nuestro proyecto Web, pueden ser Lenguajes de Programación, Plugins, Especificaciones, etc. Una de estas tecnologías es Manifest JSON que añade ciertas funcionalidades que hacen que tu proyecto sea mas dinámico, en esta artículo te contamos los detalles sobre esta tecnología.
